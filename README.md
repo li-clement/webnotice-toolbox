@@ -22,4 +22,4 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the Apache License 2.0 License. See `LICENSE` for more information.
 
 ## Contact
-Project Link: [https://github.com/[your-username]/webnotice-scanner](https://github.com/li-clement/webnotice-scanner)
+Project Link: [https://github.com/li-clement/webnotice-scanner](https://github.com/li-clement/webnotice-scanner)
