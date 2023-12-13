@@ -66,6 +66,6 @@ func GetCopyright(url string) (copyright *Copyright, err error) {
 		}
 	}
 
-	err = fmt.Errorf("No copyright information found.")
+	err = fmt.Errorf("no copyright information found")
 	return
 }
