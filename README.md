@@ -1,7 +1,7 @@
-# webnotice-scanner
+# webnotice-toolbox
 
 ## Introduction
-WebNotice-Scanner is a powerful web scraping tool designed to retrieve copyright notices from websites. This tool is especially useful for developers, content creators, and legal professionals who need to track and manage copyright information efficiently.
+WebNotice-toolbox is a set of powerful web scraping tools designed to retrieve copyright notices from websites. This tool is especially useful for developers, content creators, and legal professionals who need to track and manage copyright information efficiently.
 
 ## Features
 - **Efficient Scraping**: Quickly scans and extracts copyright notices from a variety of websites.
@@ -22,4 +22,4 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the Apache License 2.0 License. See `LICENSE` for more information.
 
 ## Contact
-Project Link: [https://github.com/li-clement/webnotice-scanner](https://github.com/li-clement/webnotice-scanner)
+Project Link: [https://github.com/OpenDataology/webnotice-toolbox](https://github.com/OpenDataology/webnotice-toolbox)
