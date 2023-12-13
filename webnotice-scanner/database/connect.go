@@ -10,7 +10,7 @@ SPDX-License-Identifier: Apache-2.0
 package database
 
 import (
-	"github.com/OpenDataology/webnotice-scanner/webnotice-scanner/config"
+	"github.com/OpenDataology/webnotice-toolbox/webnotice-scanner/config"
 
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

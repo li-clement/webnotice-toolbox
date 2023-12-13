@@ -12,7 +12,7 @@ package service
 import (
 	"net/http"
 
-	"github.com/OpenDataology/webnotice-scanner/webnotice-scanner/models"
+	"github.com/OpenDataology/webnotice-toolbox/webnotice-scanner/models"
 	"github.com/gin-gonic/gin"
 )
 

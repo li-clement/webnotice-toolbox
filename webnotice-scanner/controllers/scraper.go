@@ -12,7 +12,7 @@ package controllers
 import (
 	"net/http"
 
-	service "github.com/OpenDataology/webnotice-scanner/webnotice-scanner/services"
+	service "github.com/OpenDataology/webnotice-toolbox/webnotice-scanner/services"
 
 	"github.com/gin-gonic/gin"
 )

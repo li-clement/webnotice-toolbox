@@ -10,7 +10,7 @@ SPDX-License-Identifier: Apache-2.0
 package routes
 
 import (
-	"github.com/OpenDataology/webnotice-scanner/webnotice-scanner/controllers"
+	"github.com/OpenDataology/webnotice-toolbox/webnotice-scanner/controllers"
 
 	"github.com/gin-gonic/gin"
 )
